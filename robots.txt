@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /privacy/
+Disallow: /consent/
+
+Sitemap: https://b2china.ru/sitemap.xml
+Host: https://b2china.ru
